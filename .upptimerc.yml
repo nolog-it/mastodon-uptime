@@ -3,19 +3,45 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: witter.cz
+    url: "https://witter.cz/nodeinfo/2.0"
+  - name: cztwitter.cz
+    url: "https://cztwitter.cz/nodeinfo/2.0"
+  - name: mastodonczech.cz
+    url: "https://mastodonczech.cz/nodeinfo/2.0"
+  - name: f.cz
+    url: "https://f.cz/nodeinfo/2.0"
+  - name: mastodon.arch-linux.cz
+    url: "https://mastodon.arch-linux.cz/nodeinfo/2.0"
+  - name: lgbtcz.social
+    url: "https://lgbtcz.social/nodeinfo/2.0"
+  - name: mastodon.1984.cz
+    url: "https://mastodon.1984.cz/nodeinfo/2.0"
+  - name: fediverse.cz
+    url: "https://fediverse.cz/nodeinfo/2.0"
+  - name: mastodon.pirati.cz
+    url: "https://mastodon.pirati.cz/nodeinfo/2.0"
+  - name: gomastodon.cz
+    url: "https://gomastodon.cz/nodeinfo/2.0"
+  - name: toot.whatever.cz
+    url: "https://toot.whatever.cz/nodeinfo/2.0"
+  - name: praha.social
+    url: "https://praha.social/nodeinfo/2.0"
+  - name: kompost.cz
+    url: "https://kompost.cz/nodeinfo/2.0"
+  - name: mastodon.macsnet
+    url: "https://mastodon.macsnet.cz/nodeinfo/2.0"
+  - name: mutant.cz
+    url: "https://mutant.cz/nodeinfo/2.0"
+  - name: pidibi.com
+    url: "https://pidibi.com/nodeinfo/2.0"
+  - name: mastodon.rozhlas.cz
+    url: "https://mastodon.rozhlas.cz/nodeinfo/2.0"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
