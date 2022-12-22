@@ -184,19 +184,19 @@
     "url": "https://toot.whatever.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/toot.whatever.cz.ico",
     "slug": "toot-whatever-cz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 493,
-    "timeWeek": 519,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 513,
+    "timeDay": 487,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2022-12-22": 0
+      "2022-12-22": 12
     }
   },
   {
