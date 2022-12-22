@@ -184,9 +184,9 @@
     "url": "https://toot.whatever.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/toot.whatever.cz.ico",
     "slug": "toot-whatever-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +195,9 @@
     "timeWeek": 519,
     "timeMonth": 519,
     "timeYear": 519,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-22": 0
+    }
   },
   {
     "name": "praha.social",
