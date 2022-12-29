@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 588,
     "timeDay": 610,
-    "timeWeek": 640,
+    "timeWeek": 663,
     "timeMonth": 588,
     "timeYear": 588,
     "dailyMinutesDown": {}
@@ -203,18 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.social.ico",
     "slug": "praha-social",
     "status": "down",
-    "uptime": "87.25%",
+    "uptime": "80.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.62%",
-    "uptimeMonth": "87.25%",
-    "uptimeYear": "87.25%",
+    "uptimeWeek": "70.73%",
+    "uptimeMonth": "80.25%",
+    "uptimeYear": "80.25%",
     "time": 1516,
     "timeDay": 0,
     "timeWeek": 701,
     "timeMonth": 1516,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2022-12-29": 95,
+      "2022-12-29": 1294,
       "2022-12-28": 1440,
       "2022-12-27": 217
     }
@@ -242,9 +242,9 @@
     "url": "https://mastodon.macsnet.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.macsnet.cz.ico",
     "slug": "mastodon-macsnet-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,7 +253,9 @@
     "timeWeek": 1431,
     "timeMonth": 1320,
     "timeYear": 1320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-29": 0
+    }
   },
   {
     "name": "mutant.cz",
