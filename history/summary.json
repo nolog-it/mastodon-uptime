@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cztwitter.cz.ico",
     "slug": "cztwitter-cz",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 868,
     "timeDay": 747,
     "timeWeek": 921,
     "timeMonth": 868,
     "timeYear": 868,
-    "dailyMinutesDown": {
-      "2023-01-05": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mastodonczech.cz",
@@ -205,11 +203,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.social.ico",
     "slug": "praha-social",
     "status": "up",
-    "uptime": "59.87%",
+    "uptime": "59.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "28.31%",
-    "uptimeMonth": "59.87%",
-    "uptimeYear": "59.87%",
+    "uptimeWeek": "28.84%",
+    "uptimeMonth": "59.96%",
+    "uptimeYear": "59.96%",
     "time": 1350,
     "timeDay": 717,
     "timeWeek": 740,
@@ -249,10 +247,10 @@
     "url": "https://mastodon.macsnet.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.macsnet.cz.ico",
     "slug": "mastodon-macsnet-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 1317,
@@ -261,6 +259,7 @@
     "timeMonth": 1317,
     "timeYear": 1317,
     "dailyMinutesDown": {
+      "2023-01-05": 0,
       "2023-01-04": 22,
       "2023-01-01": 23
     }
