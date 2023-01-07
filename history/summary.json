@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodonczech.cz.ico",
     "slug": "mastodonczech-cz",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 659,
     "timeDay": 752,
     "timeWeek": 685,
     "timeMonth": 659,
     "timeYear": 659,
-    "dailyMinutesDown": {
-      "2023-01-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "f.cz",
@@ -205,11 +203,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.social.ico",
     "slug": "praha-social",
     "status": "up",
-    "uptime": "63.32%",
+    "uptime": "64.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.43%",
-    "uptimeMonth": "63.32%",
-    "uptimeYear": "63.32%",
+    "uptimeWeek": "58.27%",
+    "uptimeMonth": "64.23%",
+    "uptimeYear": "64.23%",
     "time": 1267,
     "timeDay": 800,
     "timeWeek": 719,
@@ -251,7 +249,7 @@
     "slug": "mastodon-macsnet-cz",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "99.90%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.71%",
@@ -272,9 +270,9 @@
     "url": "https://mutant.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mutant.cz.ico",
     "slug": "mutant-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -283,7 +281,9 @@
     "timeWeek": 522,
     "timeMonth": 505,
     "timeYear": 505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-07": 0
+    }
   },
   {
     "name": "pidibi.com",
