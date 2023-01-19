@@ -13,7 +13,7 @@
     "time": 628,
     "timeDay": 491,
     "timeWeek": 611,
-    "timeMonth": 628,
+    "timeMonth": 636,
     "timeYear": 628,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 844,
     "timeDay": 670,
     "timeWeek": 800,
-    "timeMonth": 844,
+    "timeMonth": 853,
     "timeYear": 844,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 649,
     "timeDay": 551,
     "timeWeek": 634,
-    "timeMonth": 649,
+    "timeMonth": 655,
     "timeYear": 649,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1010,
     "timeDay": 743,
     "timeWeek": 1408,
-    "timeMonth": 1010,
+    "timeMonth": 1028,
     "timeYear": 1010,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 647,
     "timeDay": 446,
     "timeWeek": 614,
-    "timeMonth": 647,
+    "timeMonth": 656,
     "timeYear": 647,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 722,
     "timeDay": 408,
     "timeWeek": 587,
-    "timeMonth": 722,
+    "timeMonth": 720,
     "timeYear": 722,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 1427,
     "timeDay": 1081,
     "timeWeek": 1317,
-    "timeMonth": 1427,
+    "timeMonth": 1457,
     "timeYear": 1427,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 927,
     "timeDay": 633,
     "timeWeek": 757,
-    "timeMonth": 927,
+    "timeMonth": 946,
     "timeYear": 927,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 530,
     "timeDay": 418,
     "timeWeek": 537,
-    "timeMonth": 530,
+    "timeMonth": 532,
     "timeYear": 530,
     "dailyMinutesDown": {}
   },
@@ -166,18 +166,20 @@
     "url": "https://gomastodon.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/gomastodon.cz.ico",
     "slug": "gomastodon-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
     "timeDay": 433,
     "timeWeek": 540,
-    "timeMonth": 540,
+    "timeMonth": 543,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   },
   {
     "name": "toot.whatever.cz",
@@ -193,7 +195,7 @@
     "time": 592,
     "timeDay": 467,
     "timeWeek": 572,
-    "timeMonth": 592,
+    "timeMonth": 600,
     "timeYear": 592,
     "dailyMinutesDown": {}
   },
@@ -203,15 +205,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.social.ico",
     "slug": "praha-social",
     "status": "up",
-    "uptime": "77.38%",
+    "uptime": "77.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.29%",
-    "uptimeYear": "77.38%",
+    "uptimeYear": "77.87%",
     "time": 1047,
     "timeDay": 574,
     "timeWeek": 662,
-    "timeMonth": 1047,
+    "timeMonth": 1087,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2023-01-03": 1093,
@@ -238,7 +240,7 @@
     "time": 771,
     "timeDay": 567,
     "timeWeek": 767,
-    "timeMonth": 771,
+    "timeMonth": 785,
     "timeYear": 771,
     "dailyMinutesDown": {}
   },
@@ -248,15 +250,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.macsnet.cz.ico",
     "slug": "mastodon-macsnet-cz",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 1267,
     "timeDay": 838,
     "timeWeek": 1166,
-    "timeMonth": 1267,
+    "timeMonth": 1276,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2023-01-08": 16,
@@ -280,7 +282,7 @@
     "time": 499,
     "timeDay": 388,
     "timeWeek": 476,
-    "timeMonth": 499,
+    "timeMonth": 505,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2023-01-07": 15
@@ -300,7 +302,7 @@
     "time": 166,
     "timeDay": 177,
     "timeWeek": 147,
-    "timeMonth": 166,
+    "timeMonth": 161,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -318,7 +320,7 @@
     "time": 644,
     "timeDay": 502,
     "timeWeek": 622,
-    "timeMonth": 644,
+    "timeMonth": 654,
     "timeYear": 644,
     "dailyMinutesDown": {}
   }
