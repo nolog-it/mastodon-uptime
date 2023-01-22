@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/f.cz.ico",
     "slug": "f-cz",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1009,
     "timeDay": 955,
     "timeWeek": 924,
     "timeMonth": 1053,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2023-01-22": 0
+      "2023-01-22": 23
     }
   },
   {
@@ -150,9 +150,9 @@
     "url": "https://mastodon.pirati.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.pirati.cz.ico",
     "slug": "mastodon-pirati-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 526,
     "timeMonth": 546,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-22": 0
+    }
   },
   {
     "name": "gomastodon.cz",
@@ -169,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gomastodon.cz.ico",
     "slug": "gomastodon-cz",
     "status": "down",
-    "uptime": "91.26%",
+    "uptime": "91.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.28%",
-    "uptimeMonth": "90.17%",
-    "uptimeYear": "91.26%",
+    "uptimeWeek": "57.06%",
+    "uptimeMonth": "90.12%",
+    "uptimeYear": "91.22%",
     "time": 553,
     "timeDay": 711,
     "timeWeek": 593,
     "timeMonth": 568,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2023-01-22": 1065,
+      "2023-01-22": 1088,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 361
@@ -210,11 +212,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.social.ico",
     "slug": "praha-social",
     "status": "up",
-    "uptime": "79.81%",
+    "uptime": "79.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.29%",
-    "uptimeYear": "79.81%",
+    "uptimeYear": "79.82%",
     "time": 1017,
     "timeDay": 529,
     "timeWeek": 682,
