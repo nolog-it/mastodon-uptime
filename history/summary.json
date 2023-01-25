@@ -4,10 +4,10 @@
     "url": "https://witter.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/witter.cz.ico",
     "slug": "witter-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 738,
@@ -15,7 +15,9 @@
     "timeWeek": 1176,
     "timeMonth": 784,
     "timeYear": 738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "cztwitter.cz",
@@ -96,10 +98,10 @@
     "url": "https://lgbtcz.social/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/lgbtcz.social.ico",
     "slug": "lgbtcz-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 728,
@@ -107,7 +109,9 @@
     "timeWeek": 710,
     "timeMonth": 716,
     "timeYear": 728,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "mastodon.1984.cz",
@@ -171,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gomastodon.cz.ico",
     "slug": "gomastodon-cz",
     "status": "down",
-    "uptime": "84.41%",
+    "uptime": "83.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "17.64%",
-    "uptimeMonth": "81.05%",
-    "uptimeYear": "84.41%",
+    "uptimeWeek": "13.98%",
+    "uptimeMonth": "80.20%",
+    "uptimeYear": "83.83%",
     "time": 563,
     "timeDay": 848,
     "timeWeek": 657,
     "timeMonth": 580,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-01-25": 742,
+      "2023-01-25": 1111,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -217,11 +221,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.social.ico",
     "slug": "praha-social",
     "status": "up",
-    "uptime": "81.32%",
+    "uptime": "81.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.29%",
-    "uptimeYear": "81.32%",
+    "uptimeYear": "81.45%",
     "time": 1023,
     "timeDay": 993,
     "timeWeek": 860,
