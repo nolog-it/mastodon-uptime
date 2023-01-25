@@ -4,18 +4,20 @@
     "url": "https://witter.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/witter.cz.ico",
     "slug": "witter-cz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 634,
     "timeDay": 847,
     "timeWeek": 641,
     "timeMonth": 651,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 3
+    }
   },
   {
     "name": "cztwitter.cz",
@@ -114,10 +116,10 @@
     "url": "https://mastodon.1984.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.1984.cz.ico",
     "slug": "mastodon-1984-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1427,
@@ -125,7 +127,9 @@
     "timeWeek": 1375,
     "timeMonth": 1482,
     "timeYear": 1427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "fediverse.cz",
@@ -171,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gomastodon.cz.ico",
     "slug": "gomastodon-cz",
     "status": "down",
-    "uptime": "85.45%",
+    "uptime": "84.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.05%",
-    "uptimeMonth": "82.52%",
-    "uptimeYear": "85.45%",
+    "uptimeWeek": "19.53%",
+    "uptimeMonth": "81.48%",
+    "uptimeYear": "84.72%",
     "time": 563,
     "timeDay": 848,
     "timeWeek": 657,
     "timeMonth": 580,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-01-25": 95,
+      "2023-01-25": 551,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -196,10 +200,10 @@
     "url": "https://toot.whatever.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/toot.whatever.cz.ico",
     "slug": "toot-whatever-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
@@ -207,7 +211,9 @@
     "timeWeek": 595,
     "timeMonth": 612,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "praha.social",
@@ -215,11 +221,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/praha.social.ico",
     "slug": "praha-social",
     "status": "up",
-    "uptime": "81.09%",
+    "uptime": "81.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.29%",
-    "uptimeYear": "81.09%",
+    "uptimeYear": "81.25%",
     "time": 1023,
     "timeDay": 993,
     "timeWeek": 860,
