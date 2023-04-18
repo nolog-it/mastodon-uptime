@@ -83,19 +83,19 @@
     "url": "https://mastodon.arch-linux.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.arch-linux.cz.ico",
     "slug": "mastodon-arch-linux-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 467,
-    "timeWeek": 608,
-    "timeMonth": 697,
-    "timeYear": 663,
+    "time": 662,
+    "timeDay": 475,
+    "timeWeek": 594,
+    "timeMonth": 690,
+    "timeYear": 662,
     "dailyMinutesDown": {
-      "2023-04-18": 0
+      "2023-04-18": 6
     }
   },
   {
@@ -296,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-04-18": 894,
+      "2023-04-18": 900,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
