@@ -119,19 +119,19 @@
     "url": "https://mastodon.1984.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.1984.cz.ico",
     "slug": "mastodon-1984-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1459,
-    "timeDay": 1328,
-    "timeWeek": 1249,
-    "timeMonth": 1526,
-    "timeYear": 1459,
+    "time": 1457,
+    "timeDay": 1244,
+    "timeWeek": 1238,
+    "timeMonth": 1514,
+    "timeYear": 1457,
     "dailyMinutesDown": {
-      "2023-05-02": 0
+      "2023-05-02": 6
     }
   },
   {
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-05-02": 1277,
+      "2023-05-02": 1283,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
