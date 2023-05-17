@@ -1,7 +1,7 @@
 url: https://mastodon.pirati.cz/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 1203
-lastUpdated: 2023-05-16T23:13:31.652Z
+status: down
+code: 503
+responseTime: 20695
+lastUpdated: 2023-05-17T18:44:29.245Z
 startTime: Mon Dec 19 2022 12:32:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
