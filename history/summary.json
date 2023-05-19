@@ -177,7 +177,7 @@
     "slug": "mastodon-pirati-cz",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "51.96%",
+    "uptimeDay": "54.26%",
     "uptimeWeek": "91.15%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "99.53%",
@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-05-19": 52,
+      "2023-05-19": 85,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
