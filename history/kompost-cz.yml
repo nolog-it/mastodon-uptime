@@ -1,7 +1,7 @@
 url: https://kompost.cz/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 569
-lastUpdated: 2023-05-22T17:50:43.462Z
+status: up
+code: 200
+responseTime: 718
+lastUpdated: 2023-05-22T17:56:15.644Z
 startTime: Mon Dec 19 2022 12:32:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
