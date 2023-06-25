@@ -1,7 +1,7 @@
 url: https://lgbtcz.social/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 970
-lastUpdated: 2023-06-24T23:15:56.555Z
+status: down
+code: 502
+responseTime: 1308
+lastUpdated: 2023-06-25T02:49:42.205Z
 startTime: Mon Dec 19 2022 12:32:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
