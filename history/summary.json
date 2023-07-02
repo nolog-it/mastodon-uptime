@@ -42,19 +42,19 @@
     "url": "https://mastodonczech.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mastodonczech.cz.ico",
     "slug": "mastodonczech-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 755,
-    "timeDay": 679,
-    "timeWeek": 582,
+    "timeDay": 723,
+    "timeWeek": 605,
     "timeMonth": 759,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2023-07-01": 1,
+      "2023-07-01": 4,
       "2023-03-30": 15,
       "2023-02-23": 85
     }
@@ -107,9 +107,9 @@
     "slug": "lgbtcz-social",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "66.05%",
-    "uptimeWeek": "91.52%",
-    "uptimeMonth": "98.05%",
+    "uptimeDay": "65.75%",
+    "uptimeWeek": "91.48%",
+    "uptimeMonth": "98.04%",
     "uptimeYear": "99.69%",
     "time": 791,
     "timeDay": 0,
@@ -117,7 +117,7 @@
     "timeMonth": 779,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2023-07-01": 489,
+      "2023-07-01": 493,
       "2023-06-25": 365
     }
   },
@@ -312,7 +312,7 @@
     "timeMonth": 0,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-07-01": 1436,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
