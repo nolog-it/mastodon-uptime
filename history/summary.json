@@ -321,7 +321,7 @@
     "timeMonth": 0,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-08-08": 586,
+      "2023-08-08": 591,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
@@ -597,19 +597,19 @@
     "url": "https://pidibi.com/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/pidibi.com.ico",
     "slug": "pidibi-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 137,
-    "timeWeek": 153,
-    "timeMonth": 151,
+    "timeDay": 108,
+    "timeWeek": 144,
+    "timeMonth": 149,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 5
     }
   },
   {
