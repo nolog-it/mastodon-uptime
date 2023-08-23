@@ -126,11 +126,11 @@
     "url": "https://mastodon.1984.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.1984.cz.ico",
     "slug": "mastodon-1984-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "96.40%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
     "time": 1463,
     "timeDay": 2072,
@@ -138,7 +138,7 @@
     "timeMonth": 1646,
     "timeYear": 1463,
     "dailyMinutesDown": {
-      "2023-08-23": 63,
+      "2023-08-23": 52,
       "2023-07-05": 60
     }
   },
@@ -281,12 +281,12 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.71%",
     "time": 1113,
     "timeDay": 585,
-    "timeWeek": 725,
+    "timeWeek": 745,
     "timeMonth": 763,
     "timeYear": 1113,
     "dailyMinutesDown": {
@@ -325,7 +325,7 @@
     "timeMonth": 0,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-08-23": 251,
+      "2023-08-23": 289,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
