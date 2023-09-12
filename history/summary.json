@@ -24,19 +24,19 @@
     "url": "https://cztwitter.cz/nodeinfo/2.0",
     "icon": "https://icons.duckduckgo.com/ip3/cztwitter.cz.ico",
     "slug": "cztwitter-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 1109,
-    "timeWeek": 812,
-    "timeMonth": 1323,
-    "timeYear": 929,
+    "time": 944,
+    "timeDay": 3220,
+    "timeWeek": 1377,
+    "timeMonth": 1434,
+    "timeYear": 944,
     "dailyMinutesDown": {
-      "2023-09-12": 1
+      "2023-09-12": 5
     }
   },
   {
@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-09-12": 438,
+      "2023-09-12": 443,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
