@@ -1,7 +1,7 @@
 url: https://cztwitter.cz/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-27T18:13:47.582Z
+status: up
+code: 200
+responseTime: 885
+lastUpdated: 2023-09-27T18:27:58.690Z
 startTime: 2022-12-19T12:31:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
