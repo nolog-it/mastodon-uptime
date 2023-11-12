@@ -1,7 +1,7 @@
 url: https://praha.social/nodeinfo/2.0
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-12T23:13:55.136Z
+status: up
+code: 200
+responseTime: 1380
+lastUpdated: 2023-11-12T23:32:27.038Z
 startTime: 2022-12-19T12:32:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
