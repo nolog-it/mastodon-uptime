@@ -1,7 +1,7 @@
 url: https://mastodon.macsnet.cz/nodeinfo/2.0
-status: down
-code: 503
-responseTime: 4838
-lastUpdated: 2023-11-22T19:07:18.594Z
+status: up
+code: 200
+responseTime: 1061
+lastUpdated: 2023-11-22T19:16:27.650Z
 startTime: 2022-12-19T12:42:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
