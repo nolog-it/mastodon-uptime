@@ -1,7 +1,7 @@
 url: https://gomastodon.cz/nodeinfo/2.0
-status: up
-code: 200
-responseTime: 463
-lastUpdated: 2023-12-01T04:52:43.766Z
+status: down
+code: 502
+responseTime: 3979
+lastUpdated: 2023-12-01T19:44:59.442Z
 startTime: 2022-12-19T12:32:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
