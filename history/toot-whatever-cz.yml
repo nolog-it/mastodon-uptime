@@ -1,7 +1,7 @@
 url: https://toot.whatever.cz/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 444
-lastUpdated: 2023-12-05T10:43:14.610Z
+status: up
+code: 200
+responseTime: 496
+lastUpdated: 2023-12-05T10:49:06.324Z
 startTime: 2022-12-19T12:32:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
